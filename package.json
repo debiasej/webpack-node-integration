@@ -1,0 +1,22 @@
+{
+  "name": "webpack-node-integration",
+  "version": "1.0.0",
+  "description": "Node and Webpack integration for dynamic sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debiasej/webpack-node-integration.git"
+  },
+  "author": "Mario de Biase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debiasej/webpack-node-integration/issues"
+  },
+  "homepage": "https://github.com/debiasej/webpack-node-integration#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
