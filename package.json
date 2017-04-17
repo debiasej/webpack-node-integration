@@ -18,5 +18,9 @@
   "homepage": "https://github.com/debiasej/webpack-node-integration#readme",
   "dependencies": {
     "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "webpack": "^2.4.1",
+    "webpack-dev-middleware": "^1.10.1"
   }
 }
